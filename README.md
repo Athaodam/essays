@@ -6,7 +6,7 @@ Before there were humans, there were plants. Throughout history, plants have nou
 
 Despite laying down sturdy roots, plants are very active and influential. Their unique compositions of chemicals, colours, and dispersion have both helped and harmed us humans across time. In efforts to capture, uplift, and showcase these dynamic inter-species relationships, the research institution ==Dumbarton Oaks=={Q1264942} coined the term =="Plant Humanities"=={Q104796447} which  "explores and communicates the unparalleled significance of plants to human culture."[^1]
 
-Since its inception in 2018, interest and application of Plant Humanities, as an approach, initiative, and discipline, has grown considerably. This enthusiam for plants has sprouted fruitful partnerships and collabrations both internationally and interdisciplinarily -- 
+Since its inception in 2018, interest and application of Plant Humanities, as an approach, initiative, and discipline, has grown considerably. This enthusiasm for plants has sprouted several fruitful  collabrations across disciplines and sectors around the world. 
 
 
 # The Plants of Cambodia
