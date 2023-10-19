@@ -6,11 +6,12 @@ Before there were humans, there were plants. Throughout history, plants have nou
 
 Despite laying down sturdy roots, plants are very active and influential. Their unique compositions of chemicals, colours, and dispersion have both helped and harmed us humans across time. In efforts to capture, uplift, and showcase these dynamic inter-species relationships, the research institution ==Dumbarton Oaks=={Q1264942} coined the term =="Plant Humanities"=={Q104796447} which  "explores and communicates the unparalleled significance of plants to human culture."[^1]
 
-Since its inception in 2018, interest and application of Plant Humanities, as an approach, initiative, and discipline, has grown considerably. This enthusiasm for plants has sprouted several fruitful  collabrations across disciplines and sectors around the world. 
+Since its inception in 2018, interest and application of Plant Humanities, as an approach, initiative, and discipline, has grown considerably. This enthusiasm for plants has sprouted several fruitful collabrations across disciplines and sectors around the world. 
 
 
 # The Plants of Cambodia
 
+The Kingdom of ==Cambodia=={Q424} is considered a "biodiversity hotspot" in mainland ==Southeast Asia=={Q11708}.[^2]
 
 # Our Mission
 
@@ -23,3 +24,4 @@ Since its inception in 2018, interest and application of Plant Humanities, as an
 Plant Planet Plate has been generously funded by the ==National Geographic Society=={Q167186} under their Explorer Grant Scheme. It is a collaborative effort between academic institutions and NGOs based in Cambodia, The Netherlands, and the United Kingdom. Namely: ==Maastricht University=={Q1137652}, Green Shoots Foundation (U.K.), The ==Royal University of Phnom Penh=={Q1709572}, The National Herbarium of Cambodia, The ==Royal University of Agriculture=={Q7374951}, and the ==University of Battambang=={Q30265680}.
 
 [^1]: https://www.doaks.org/research/mellon-initiatives/plant-humanities-initiative
+[^2]: Theilade, I., & de Kok, R. (2015). The status of botanical exploration and plant conservation in Cambodia. Cambodian Journal of Natural History, 2015(2), 117-120. http://www.fauna-flora.org/wp-content/uploads/CJNH-20152-October.pdf
