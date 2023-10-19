@@ -2,6 +2,8 @@
 
 #  Cambodian plants & their stories 
 
+Before there were humans, there were plants. 
+
 
 
 
