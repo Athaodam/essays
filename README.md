@@ -1,6 +1,6 @@
-.ve-header "Plant Planet Plate: Cambodia" wc:Plant_specimen_labeling.jpg "Ashley Thuthao Keng Dam, Ph.D." sticky
+.ve-header "Plant Planet Plate: Cambodia" wc: Labeling plants at the Green Shoots Agritech Centre ;Plant_specimen_labeling.jpg "Ashley Thuthao Keng Dam, Ph.D." sticky
 
-# Plant Planet Plate: Cambodia
+#  Cambodian plants & their stories 
 
 
 
@@ -8,6 +8,6 @@
 
 # Our Mission
 
-# Our Methodologies
+# Design & approaches
 
-# Meet the Team
+# 
