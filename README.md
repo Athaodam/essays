@@ -17,6 +17,8 @@ The Kingdom of ==Cambodia=={Q424} is considered a "biodiversity hotspot" in main
 
 # Design & approaches
 
+Our project uses a mix of theories and methods from the disciplines of ethnobotany, food studies, and medical anthropology. It is primarily qualitative, meaning we are interested in the individual perceptions and 
+
 # Our Team
 
 # Our Community 
