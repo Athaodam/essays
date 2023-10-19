@@ -22,4 +22,4 @@ Since its inception in 2018, interest and application of Plant Humanities, as an
 
 Plant Planet Plate has been generously funded by the ==National Geographic Society=={Q167186}
 
-[^1]: Plant_Humanities according to [https://www.doaks.org/research/mellon-initiatives/plant-humanities-initiative]
+[^1]: Plant_Humanities according to [Dumbarton Oaks] (https://www.doaks.org/research/mellon-initiatives/plant-humanities-initiative)
