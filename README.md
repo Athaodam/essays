@@ -4,7 +4,7 @@
 
 Before there were humans, there were plants. Throughout history, plants have nourished and inspired us in many different ways. Whether it's ancient food recipes, carefully guarded medical cures, or creative projects in music and the arts, the impact of plants are astoundingly present. Unsurprisingly, scholars and plant enthusiasts can agree that humans have extensive relationships with plants... and these relationships are not in one direction. 
 
-Despite laying down sturdy roots, plants are very active and influential. Their unique compositions of chemicals, colours, and dispersion guide, organise, and even kill us -- all of which are crucial parts 
+Despite laying down sturdy roots, plants are very active and influential. Their unique compositions of chemicals, colours, and dispersion have caused us humans much help and harm across time. In efforts to capture, uplift, and 
 
 
 # The Plants of Cambodia
