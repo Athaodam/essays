@@ -21,7 +21,7 @@ The Kingdom of ==Cambodia=={Q424} is considered a "biodiversity hotspot" in main
 
 # Our Community 
 
-Plant Planet Plate has been generously funded by the ==National Geographic Society=={Q167186} under their Explorer Grant Scheme. It is a collaborative effort between academic institutions and NGOs based in Cambodia, The Netherlands, and the United Kingdom. Namely: ==Maastricht University=={Q1137652}, Green Shoots Foundation (U.K.), The ==Royal University of Phnom Penh=={Q1709572}, The National Herbarium of Cambodia, The ==Royal University of Agriculture=={Q7374951}, and the ==University of Battambang=={Q30265680}.
+Plant Planet Plate has been generously funded by the ==National Geographic Society=={Q167186} under their Explorer Grant Scheme. It is a collaborative effort between academic institutions and NGOs based in Cambodia, The Netherlands, and the United Kingdom. Namely: ==Maastricht University (The Netherlands)=={Q1137652}, Green Shoots Foundation (United Kingdom), The ==Royal University of Phnom Penh=={Q1709572}, The National Herbarium of Cambodia, The ==Royal University of Agriculture (Cambodia)=={Q7374951}, and the ==University of Battambang (Cambodia)=={Q30265680}.
 
 [^1]: [DumbartonOaks] (https://www.doaks.org/research/mellon-initiatives/plant-humanities-initiative)
 [^2]: Theilade, I., & de Kok, R. (2015). The status of botanical exploration and plant conservation in Cambodia. Cambodian Journal of Natural History, 2015(2), 117-120. http://www.fauna-flora.org/wp-content/uploads/CJNH-20152-October.pdf
