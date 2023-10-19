@@ -18,4 +18,4 @@ Despite laying down sturdy roots, plants are very active and influential. Their 
 
 # Our Community 
 
-Plant Planet Plate has been generously funded by the ==National Geographic Society== {Q167186}
+Plant Planet Plate has been generously funded by the ==National Geographic Society=={Q167186}
