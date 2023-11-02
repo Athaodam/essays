@@ -1,7 +1,7 @@
 .ve-media "Plant specimens at the Agri-Tech Centre" 
 .ve-header "Plant Planet Plate: Cambodia" wc: Labeling plants at the Green Shoots Agritech Centre ;Plant_specimen_labeling.jpg "Ashley Thuthao Keng Dam, Ph.D." sticky
 
-#  Plants & their stories 
+#  Plants Stories
 
 Before there were humans, there were plants. Throughout history, plants have nourished and inspired us in many different ways. Whether it's ancient food recipes, carefully guarded medical cures, or creative projects in music and the arts, the impact of plants are astoundingly present. Unsurprisingly, scholars and plant enthusiasts can agree that humans have extensive relationships with plants... and these relationships are not in one direction. 
 
@@ -10,7 +10,7 @@ Despite laying down sturdy roots, plants are very active and influential. Their 
 Through Plant Humanities, we are able to better understand the overlapping connections human beings have with the nature which surrounds us. These exchanges enhance our affinity for protecting, preserving, and bolstering both ==biodiversity=={Q47041} and ==biocultural diversity=={Q4914734}, which are increasingly threatened by the ongoing impacts of ==climate change=={Q7942}.
 
 
-# The Plants of Cambodia
+# Plants of Cambodia
 
 The Kingdom of ==Cambodia=={Q424} is considered a "biodiversity hotspot" in mainland ==Southeast Asia=={Q11708}.[^2]
 Plants are very important in many parts of Cambodian day life and culture. They are eaten as food, made into medicines, used as decoration, and are incorporated into specific rituals for many ==rites of passage=={Q1131696} and community events. 
@@ -21,7 +21,7 @@ To understand how people living in Oddar Meanchey Province, Cambodia collection,
 
 # Design & approaches
 
-Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. It is primarily qualitative, meaning we are interested in the individual perceptions and 
+Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. In order to capture individual thoughts, experiences, and perceptions of people with the plants around them we conducted semi-structured interviews. We supplemented this with 
 
 # Our Team
 
