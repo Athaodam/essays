@@ -1,3 +1,4 @@
+.ve-media "Plant specimens at the Agri-Tech Centre" 
 .ve-header "Plant Planet Plate: Cambodia" wc: Labeling plants at the Green Shoots Agritech Centre ;Plant_specimen_labeling.jpg "Ashley Thuthao Keng Dam, Ph.D." sticky
 
 #  Plants & their stories 
@@ -12,12 +13,15 @@ Through Plant Humanities, we are able to better understand the overlapping conne
 # The Plants of Cambodia
 
 The Kingdom of ==Cambodia=={Q424} is considered a "biodiversity hotspot" in mainland ==Southeast Asia=={Q11708}.[^2]
+Plants are very important in many parts of Cambodian day life and culture. They are eaten as food, made into medicines, used as decoration, and are incorporated into specific rituals for many ==rites of passage=={Q1131696} and community events. 
 
 # Our Mission
 
+As 
+
 # Design & approaches
 
-Our project uses a mix of theories and methods from the disciplines of ethnobotany, food studies, and medical anthropology. It is primarily qualitative, meaning we are interested in the individual perceptions and 
+Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. It is primarily qualitative, meaning we are interested in the individual perceptions and 
 
 # Our Team
 
