@@ -17,7 +17,7 @@ Plants are very important in many parts of Cambodian day life and culture. They 
 
 # Our Mission
 
-As 
+To understand how people living in Oddar Meanchey Province, Cambodia collection, prepare, and use foraged plants in their daily lives as food, medicine, and beyond.
 
 # Design & approaches
 
