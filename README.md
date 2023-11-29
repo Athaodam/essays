@@ -13,7 +13,7 @@ Through Plant Humanities, we are able to better understand the overlapping conne
 # Plants of Cambodia
 
 The Kingdom of ==Cambodia=={Q424} is considered a "biodiversity hotspot" in mainland ==Southeast Asia=={Q11708}.[^2]
-Plants are very important in many parts of Cambodian day life and culture. They are eaten as food, made into medicines, used as decoration, and are incorporated into specific rituals for many ==rites of passage=={Q1131696} and community events. 
+Plants are very important in many parts of Cambodian day life and culture. They are eaten as food, made into medicines, used as decoration, and are incorporated into specific rituals for many ==rites of passage=={Q1131696} and community events. Past and ongoing research has demonstrated that many plants fall under what is known as the "food-medicine spectrum", meaning that depending on the context, a given plant can be transformed and consumed for different purposes. While it's easier for us to think in rigid categories, it's also important to reali 
 
 # Our Mission
 
@@ -21,9 +21,11 @@ To understand how people living in Oddar Meanchey Province, Cambodia collection,
 
 # Design & approaches
 
-Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. In order to capture individual thoughts, experiences, and perceptions of people with the plants around them we conducted semi-structured interviews. We supplemented this with 
+Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. In order to capture individual thoughts, experiences, and perceptions of people with the plants around them we conducted semi-structured interviews. Participants were asked a series of questions relating to their foraging practices, individual plant species and their uses, as well as their feelings about the relationships between food and medicine overall. We supplemented this with 
 
 # Our Team
+
+The Plant Planet Plate team is consists of plant-loving people, with experiences in research, agriculture, gardening, and more. The team is lead by Dr. Ashley Thuthao Keng Dam from Maastricht University and Muneezay Jaffery of Green Shoots Foundation.
 
 # Our Community 
 
