@@ -19,14 +19,21 @@ Plants are very important in many parts of Cambodian day life and culture. They 
 # Our Mission
 
 To understand how people living in Oddar Meanchey Province, Cambodia collection, prepare, and use foraged plants in their daily lives as food, medicine, and beyond.
-We would like to contribute to growing research on plants by 
+We would like to highlight glimpses of the local traditional ecological knowledge of the vibrant communities living in the province. 
 
 
 # Design & approaches
 
-Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. In order to capture individual thoughts, experiences, and perceptions of people with the plants around them we conducted semi-structured interviews. We supplemented this with 
+Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. In order to capture individual thoughts, experiences, and perceptions of people with the plants around them we conducted semi-structured interviews. We asked people to explain to us their foraging habits, the different plant species they encounter, and how they use them. When possible, we accompanied these people to collect ==botanical specimens== {Q120431565} of the plants they were describing. We visited the protected Monk Community Forest, where we spoke to and were guided by several monks living there to better understand plants which abundantly grew around them. What we unearthed were
 
 # Our Team
+
+Ashley Thuthao Keng Dam
+Muneezay Jaffery
+
+Sarin Sak
+Sreypich Chhun 
+
 
 # Our Community 
 
@@ -34,7 +41,7 @@ Plant Planet Plate has been generously funded by the ==National Geographic Socie
 
 Planet Planet Plate is a collaborative effort between academic institutions and NGOs based in Cambodia, The Netherlands, and the United Kingdom. Namely: ==Maastricht University (The Netherlands)=={Q1137652}, Green Shoots Foundation (United Kingdom), The ==Royal University of Phnom Penh=={Q1709572}, The National Herbarium of Cambodia, The ==Royal University of Agriculture (Cambodia)=={Q7374951}, and the ==University of Battambang (Cambodia)=={Q30265680}. 
 
-This work is an open-access, academically rigorous, resource for Cambodian nationals, the Cambodian diaspora, and all those interested in the wondrous nature of the Plant Humanities of Cambodia.
+This work is an open-access, academically rigorous, resource for Cambodian nationals, the Cambodian diaspora, and all those interested in the wondrous nature of the plants of Cambodia and their entanglements with the people and cultures thriving there. 
 
 [^1]: [DumbartonOaks] (https://www.doaks.org/research/mellon-initiatives/plant-humanities-initiative)
 [^2]: Theilade, I., & de Kok, R. (2015). The status of botanical exploration and plant conservation in Cambodia. Cambodian Journal of Natural History, 2015(2), 117-120. http://www.fauna-flora.org/wp-content/uploads/CJNH-20152-October.pdf
