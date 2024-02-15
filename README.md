@@ -1,5 +1,5 @@
-.ve-media "Plant specimens at the Agri-Tech Centre" 
-.ve-header "Plant Planet Plate: Cambodia" wc: Labeling plants at the Green Shoots Agritech Centre ;Plant_specimen_labeling.jpg "Ashley Thuthao Keng Dam, Ph.D." sticky
+.ve-media "Plant specimen labeling.jpg" 
+.ve-header "Plant Planet Plate: Cambodia" "Ashley Thuthao Keng Dam, Ph.D." sticky
 
 #  Plants Stories
 
