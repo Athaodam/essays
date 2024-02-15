@@ -13,7 +13,8 @@ Through Plant Humanities, we are able to better understand the overlapping conne
 # Plants of Cambodia
 
 The Kingdom of ==Cambodia=={Q424} is considered a "biodiversity hotspot" in mainland ==Southeast Asia=={Q11708}.[^2]
-Plants are very important in many parts of Cambodian day life and culture. They are eaten as food, made into medicines, used as decoration, and are incorporated into specific rituals for many ==rites of passage=={Q1131696} and community events. We began Plant Planet Plate as a way to share, safeguard, and celebrate the bio(cultural)diversity of Cambodia with Cambodian nationals, members of the diaspora, and interested plant enthusiasts all over the world! 
+Plants are very important in many parts of Cambodian day life and culture. They are eaten as food, made into medicines, used as decoration, and are incorporated into specific rituals for many ==rites of passage=={Q1131696} and community events. We began Plant Planet Plate as a way to share, safeguard, and celebrate the bio(cultural)diversity of Cambodia with Cambodian nationals, members of the diaspora, and interested plant enthusiasts all over the world! This work is an open-access, academically rigorous, resource that we hope you share within others.
+
 
 
 # Our Mission
@@ -48,7 +49,7 @@ Plant Planet Plate has been generously funded by the ==National Geographic Socie
 
 Planet Planet Plate is a collaborative effort between academic institutions and NGOs based in Cambodia, The Netherlands, and the United Kingdom. Namely: ==Maastricht University (The Netherlands)=={Q1137652}, Green Shoots Foundation (United Kingdom), The ==Royal University of Phnom Penh=={Q1709572}, The National Herbarium of Cambodia, The ==Royal University of Agriculture (Cambodia)=={Q7374951}, and the ==University of Battambang (Cambodia)=={Q30265680}. 
 
-This work is an open-access, academically rigorous, resource for Cambodian nationals, the Cambodian diaspora, and all those interested in the wondrous nature of the plants of Cambodia and their entanglements with the people and cultures thriving there. 
+
 
 [^1]: [DumbartonOaks] (https://www.doaks.org/research/mellon-initiatives/plant-humanities-initiative)
 [^2]: Theilade, I., & de Kok, R. (2015). The status of botanical exploration and plant conservation in Cambodia. Cambodian Journal of Natural History, 2015(2), 117-120. http://www.fauna-flora.org/wp-content/uploads/CJNH-20152-October.pdf
