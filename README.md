@@ -45,7 +45,7 @@ Sreypich Chhun is a master's student at the Royal University of Agriculture (Cam
 
 # Our Community 
 
-Plant Planet Plate is composed of the stories and insights of people living across Oddar Meanchey province. We are grateful for all the knowledge, stories, and plant-centered moments that they shared with us.
+Plant Planet Plate is composed of the stories and insights of people living across Oddar Meanchey province. We are grateful for all the knowledge, stories, and plant-centered moments that they shared with us. This would not be possible without their support and guidance!
 
 
 
