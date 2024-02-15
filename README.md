@@ -30,11 +30,16 @@ Our project uses a mix of theories and methods from the disciplines of ==ethnobo
 
 # Our Team
 
-Ashley Thuthao Keng Dam
-Muneezay Jaffery
+**Ashley Thuthao Keng Dam (they/them/theirs)**
+Dr. Ashley Thuthao Keng Dam
 
-Sarin Sak
-Sreypich Chhun 
+**Muneezay Jaffery (she/her/hers)**
+
+**Sarin Sak (he/him/his)**
+
+**Sreypich Chhun (she/her/hers)**
+
+Sreypich Chhun is a master's student at the Royal University of Agriculture (Cambodia) majoring in Agricultural Extension. Also, she is a graduate research assistant supported by scholarship from the Center of Excellence on Sustainable Agricultural Intensification of Nutrition (CE SAIN). Under CE SAIN's project "S-3 Cambodia: Scaling Suitable Sustainable Technologies" framework she has conducted research for her thesis entitled "Assessment on Secondhand School Students' Knowledge and Perception Through the Training in Nutrition-based Wild Food plants Garden."
 
 
 # Our Community 
