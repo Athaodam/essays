@@ -1,6 +1,6 @@
 
 
-.ve-media wc: Plant specimen labeling.jpg fit static caption="Plant specimen preparation at the Agri-Tech Centre"
+.ve-media wc: plant press prep fit static caption="Plant specimen preparation at the Agri-Tech Centre"
 .ve-header "Plant Planet Plate: Cambodia" "Ashley Thuthao Keng Dam, Ph.D." sticky
 
 #  Plants Stories
