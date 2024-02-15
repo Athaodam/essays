@@ -45,13 +45,15 @@ Sreypich Chhun is a master's student at the Royal University of Agriculture (Cam
 
 # Our Community 
 
-Plant Planet Plate is composed of the stories and insights of people living across Oddar Meanchey province. We are grateful for all the knowledge, stories, and plant-centered moments that they shared with us. This would not be possible without their support and guidance!
+Plant Planet Plate is composed of the stories and insights of people living across Oddar Meanchey province. We are grateful for all the knowledge, stories, and plant-centered moments that they shared with us. This would not be possible without their support and guidance! អរគុណច្រើន
 
 
 
 Plant Planet Plate has been generously funded by the ==National Geographic Society=={Q167186} under their Explorer Grant Scheme (Grant Number: EC-95284R-22). This study was given ethical clearance by the ==Universita degli Studi di Scienze Gastronomiche (University of Gastronomic Sciences)== {Q2523033} Ethics Committee through resolution on March 31st, 2022. 
 
 Planet Planet Plate is a collaborative effort between academic institutions and NGOs based in Cambodia, The Netherlands, and the United Kingdom. Namely: ==Maastricht University (The Netherlands)=={Q1137652}, Green Shoots Foundation (United Kingdom), The ==Royal University of Phnom Penh=={Q1709572}, The National Herbarium of Cambodia, The ==Royal University of Agriculture (Cambodia)=={Q7374951}, and the ==University of Battambang (Cambodia)=={Q30265680}. 
+
+Plant Planet Plate also has a sister project based at Maastricht University called Plant Planet Plate Limburg which is also led by Dr. Ashley Thuthao Keng Dam. It is an inter-disciplinary and inter-faculty effort supported by Dr. Roy Erkens, Dr. Aodhán Kelly, and a team of dedicated research assistants and volunteers. Plant Planet Plate Limburg is generously funded by a UM Sustainability Seed Grant.
 
 
 
