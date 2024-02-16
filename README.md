@@ -29,12 +29,22 @@ Plants are very important in many parts of Cambodian day life and culture. They 
 
 # Design & approaches
 
-Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. In order to capture individual thoughts, experiences, and perceptions of people with the plants around them we conducted semi-structured interviews. We asked people to explain to us their foraging habits, the different plant species they encounter, and how they use them. When possible, we accompanied these people to collect ==botanical specimens== {Q120431565} of the plants they were describing. We visited the protected Monk Community Forest, where we spoke to and were guided by several monks living there to better understand plants which abundantly grew around them. What we unearthed were
+Our project uses a mix of theories and methods from the disciplines of ==ethnobotany=={Q841408}, ==food studies=={Q3232953}, and ==medical anthropology=={Q1779521}. In order to capture individual thoughts, experiences, and perceptions of people with the plants around them we conducted semi-structured interviews. We asked people to explain to us their foraging habits, the different plant species they encounter, and how they use them. When possible, we accompanied these people to collect ==botanical specimens== {Q120431565} of the plants they were describing. We visited the protected Monk Community Forest, where we spoke to and were guided by several monks living there to better understand plants which abundantly grew around them. We hosted a "forage and feast" field trip with several local students from the ==Enfants du Mékong== {Q29378729} school, where
+
+At a glance: 
++ Conducted 50 semi-structured interviews with people living across Oddar Meanchey Province in Khmer with live English field translation
++ Created a Plant Planet Plate Garden 
++ Hosted 1 "Forage and Feast" field trip with Enfants du Mékong
++ Built 2 plant presses from local materials for the Agri-Tech Centre
++ 
++ Prepared 
+
 
 # Our Team
 
 **Ashley Thuthao Keng Dam (they/them/theirs)**
-Dr. Ashley Thuthao Keng Dam
+Ashley Thuthao Keng Dam is a Khmer and Vietnamese American medical anthropologist, ethnobotanist, and food writer. 
+As a National Geographic Society explorer, Thao 
 
 **Muneezay Jaffery (she/her/hers)**
 
@@ -44,11 +54,13 @@ Endlessly knowledgeable of local plant species and how to nourish them, he is th
 
 
 **Sarin Sak (he/him/his)**
+Sarin Sak is a fa
+He provided invaluable insights as a research assistant and field translator. He 
 
 **Sreypich Chhun (she/her/hers)**
 
 Mr. 
-Sreypich Chhun is a master's student at the Royal University of Agriculture (Cambodia) majoring in Agricultural Extension. Also, she is a graduate research assistant supported by scholarship from the Center of Excellence on Sustainable Agricultural Intensification of Nutrition (CE SAIN). Under CE SAIN's project "S-3 Cambodia: Scaling Suitable Sustainable Technologies" framework she has conducted research for her thesis entitled "Assessment on Secondhand School Students' Knowledge and Perception Through the Training in Nutrition-based Wild Food plants Garden."
+Sreypich Chhun is a master's student at the Royal University of Agriculture (Cambodia) majoring in Agricultural Extension. Also, she is a graduate research assistant supported by scholarship from the Center of Excellence on Sustainable Agricultural Intensification of Nutrition (CE SAIN). Under CE SAIN's project "S-3 Cambodia: Scaling Suitable Sustainable Technologies" framework she has conducted research for her thesis entitled "Assessment on Secondhand School Students' Knowledge and Perception Through the Training in Nutrition-based Wild Food plants Garden." Sreypich contributed to Plant Planet Plate as a research assistant and field translator, where she supported the interview process and forage and feast field trip.
 
 
 # Our Community 
