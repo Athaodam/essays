@@ -50,11 +50,11 @@ As a National Geographic Society explorer, Thao
 
 **Saluth Loun (he/him/his)** 
 Saluth Loun is a local farmer and the Head Gardener of the Agri-Tech Centre’s growing spaces.
-Endlessly knowledgeable of local plant species and how to nourish them, he is the main caretaker of the Plant Planet Plate garden and its transplanted species.
+Endlessly knowledgeable of local plant species and how to nourish them, he is the main caretaker of the Plant Planet Plate garden and its newly transplanted species.
 
 
 **Sarin Sak (he/him/his)**
-Sarin Sak is a fa
+Sarin Sak is the former Project Manager of the Agri-Tech Centre. He has over 20 years of experience in community development and is a farmer himself, where he focuses on vegetable gardening, cultivating mushrooms 
 He provided invaluable insights as a research assistant and field translator. He 
 
 **Sreypich Chhun (she/her/hers)**
