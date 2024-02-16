@@ -1,2 +1,0 @@
-# Plant planet plate: cambodia
-
