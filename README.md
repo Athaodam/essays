@@ -17,7 +17,9 @@ url="https://upload.wikimedia.org/wikipedia/commons/4/4c/%E1%9E%95%E1%9F%92%E1%9
        license= CC BY-SA 4.0 
        fit="contain">
 
+.
 Despite laying down sturdy roots, plants are very active and influential. Their unique compositions of chemicals, colours, and dispersion have both helped and harmed us humans across time. In efforts to capture, uplift, and showcase these dynamic inter-species relationships, the research institution Dumbarton Oaks coined the term "Plant Humanities" which  "explores and communicates the unparalleled significance of plants to human culture."[^1] Since its inception in 2018, interest and application of Plant Humanities, as an approach, initiative, and discipline, has grown considerably. This enthusiasm for plants has sprouted several fruitful collabrations across disciplines and sectors around the world.
+    - wc:ផ្កាក្នុងកូនកញ្ច្រែញ.jpg
 
 <param ve-image
 url="https://upload.wikimedia.org/wikipedia/commons/8/8c/100_Piastres_-_Institut_d%27%C3%89mission_des_%C3%89tats_du_Cambodge%2C_du_Laos_et_du_Viet-Nam_%281954%29_Laos_02.jpg"
