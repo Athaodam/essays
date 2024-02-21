@@ -1,13 +1,20 @@
 <param ve-config 
        title="Plant Planet Plate"
-       author="Ashley Thuthao Keng Dam, Ph.D."
-       banner="https://github.com/Athaodam/media/blob/main/Agri-Tech_Centre_Home_Garden.jpg" 
+       author="Ashley Thuthao Keng Dam, Ph.D. & Green Shoots Foundation "
+       banner="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cambodian_-_Vessantara_Jataka%2C_Chapter_11_-_Jujaka_Treats_Jali_and_Kanha_Poorly%3B_While_Jujaka_Sleeps_the_Children_are_Cared_For_-_Walters_20101241_-_Front_A_T.jpg/640px-thumbnail.jpg" 
        layout="vertical">
 
 
 #  Plants Stories
 
 Before there were humans, there were plants. Throughout history, plants have nourished and inspired us in many different ways. Whether it's ancient food recipes, carefully guarded medical cures, or creative projects in music and the arts, the impact of plants are astoundingly present. Unsurprisingly, scholars and plant enthusiasts can agree that humans have extensive relationships with plants... and these relationships are not in one direction. 
+
+
+<param ve-image
+url="https://upload.wikimedia.org/wikipedia/commons/4/4c/%E1%9E%95%E1%9F%92%E1%9E%80%E1%9E%B6%E1%9E%80%E1%9F%92%E1%9E%93%E1%9E%BB%E1%9E%84%E1%9E%80%E1%9E%BC%E1%9E%93%E1%9E%80%E1%9E%89%E1%9F%92%E1%9E%85%E1%9F%92%E1%9E%9A%E1%9F%82%E1%9E%89.jpg"
+       label="Flowers in Seedlinesផ្កាក្នុងកូនកញ្ច្រែញ" 
+       attribution="Lien chariya, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons"
+       fit="contain">
 
 Despite laying down sturdy roots, plants are very active and influential. Their unique compositions of chemicals, colours, and dispersion have both helped and harmed us humans across time. In efforts to capture, uplift, and showcase these dynamic inter-species relationships, the research institution Dumbarton Oaks coined the term "Plant Humanities" which  "explores and communicates the unparalleled significance of plants to human culture."[^1] Since its inception in 2018, interest and application of Plant Humanities, as an approach, initiative, and discipline, has grown considerably. This enthusiasm for plants has sprouted several fruitful collabrations across disciplines and sectors around the world.
 
@@ -19,11 +26,10 @@ Through Plant Humanities, we are able to better understand the overlapping conne
 <param ve-entity eid="Q4914734"> <!-- biocultural diversity -->
 <param ve-entity eid="Q7942"> <!-- biocultural diversity -->
 
-# Sample visual essay
 
 
 
-## Image
+
 
 _Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, 
 dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 
