@@ -1,5 +1,3 @@
-<a href="https://juncture-digital.org/<athaodam>/<plantplanetplatecambodia>"><img src="https://juncture-digital.org/images/ve-button.png"></a>
-
 <param ve-config 
        title="Plant Planet Plate"
        author="Ashley Thuthao Keng Dam, Ph.D."
@@ -54,9 +52,6 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
 
-
-.ve-media wc: plant press prep fit static caption="Plant specimen preparation at the Agri-Tech Centre"
-.ve-header "Plant Planet Plate: Cambodia" "Ashley Thuthao Keng Dam, Ph.D." sticky
 
 
 
